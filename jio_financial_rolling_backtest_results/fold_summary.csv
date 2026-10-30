@@ -1,0 +1,21 @@
+asset,evaluation_period,fold,Model,days,mean_negative_log_score,mean_CRPS,VaR95_exceedance_rate
+jio_financial,existing_test_exploratory,0,GARCH-normal,157,-2.554727356524711,0.010530896284996271,0.050955414012738856
+jio_financial,existing_test_exploratory,0,GARCH-power-law hybrid,157,-2.552673074892957,0.010475481556428263,0.06369426751592357
+jio_financial,existing_test_exploratory,0,Normal IID,157,-2.536296896185768,0.0106049467611831,0.044585987261146494
+jio_financial,existing_test_exploratory,0,Power-law hybrid IID,157,-2.519664823633946,0.010577087816497544,0.07006369426751592
+jio_financial,within_training,1,GARCH-normal,62,-2.2912944949114626,0.013511813820847578,0.04838709677419355
+jio_financial,within_training,1,GARCH-power-law hybrid,62,-2.255057012242128,0.013686187810294403,0.06451612903225806
+jio_financial,within_training,1,Normal IID,62,-2.3053030850943084,0.013494773135872586,0.03225806451612903
+jio_financial,within_training,1,Power-law hybrid IID,62,-2.205967627089677,0.013731279337243186,0.08064516129032258
+jio_financial,within_training,2,GARCH-normal,62,-2.678893462918742,0.008787831431796723,0.0
+jio_financial,within_training,2,GARCH-power-law hybrid,62,-2.7345620408215776,0.008574811415595053,0.0
+jio_financial,within_training,2,Normal IID,62,-2.6377661453133006,0.00890668426785706,0.0
+jio_financial,within_training,2,Power-law hybrid IID,62,-2.7129298505189166,0.0085217127816901,0.0
+jio_financial,within_training,3,GARCH-normal,62,-2.924460480292593,0.00657229256735339,0.0
+jio_financial,within_training,3,GARCH-power-law hybrid,62,-2.989996985547018,0.00628245071639264,0.0
+jio_financial,within_training,3,Normal IID,62,-2.776779891713116,0.007119194823975703,0.0
+jio_financial,within_training,3,Power-law hybrid IID,62,-2.8740871217846373,0.006588909416676753,0.0
+jio_financial,within_training,4,GARCH-normal,62,-2.6560208592033603,0.008968196759578748,0.0967741935483871
+jio_financial,within_training,4,GARCH-power-law hybrid,62,-2.7298661047366783,0.008788046965154775,0.0967741935483871
+jio_financial,within_training,4,Normal IID,62,-2.605863222532602,0.009193578653901073,0.04838709677419355
+jio_financial,within_training,4,Power-law hybrid IID,62,-2.7238955907110953,0.00873463816255987,0.06451612903225806

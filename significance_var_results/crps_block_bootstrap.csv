@@ -1,0 +1,7 @@
+evaluation_period,comparison,paired_days,block_length_days,mean_CRPS_advantage_of_benchmark,bootstrap_95CI_low,bootstrap_95CI_high,bootstrap_reps,interpretation
+within_training,GARCH-power-law hybrid vs GARCH-normal,197,10,9.96793967922387e-05,6.645395500176779e-05,0.00013398826907417405,5000,Benchmark lower CRPS; CI excludes zero
+within_training,GARCH-power-law hybrid vs Normal IID,197,10,0.000314203484907226,0.00023170299851352132,0.00039359395192017254,5000,Benchmark lower CRPS; CI excludes zero
+within_training,GARCH-power-law hybrid vs Power-law hybrid IID,197,10,6.618743285380608e-05,3.184778496860684e-05,0.00010106933273966541,5000,Benchmark lower CRPS; CI excludes zero
+existing_test_exploratory,GARCH-power-law hybrid vs GARCH-normal,494,10,8.525988110728462e-05,4.6739052355208304e-05,0.00012362938987816905,5000,Benchmark lower CRPS; CI excludes zero
+existing_test_exploratory,GARCH-power-law hybrid vs Normal IID,494,10,0.00025705790655147103,0.00015486652505541896,0.0003691935529340938,5000,Benchmark lower CRPS; CI excludes zero
+existing_test_exploratory,GARCH-power-law hybrid vs Power-law hybrid IID,494,10,5.751550355790946e-05,6.85860587074276e-06,0.00011092297790434565,5000,Benchmark lower CRPS; CI excludes zero

@@ -1,0 +1,31 @@
+Source,Threshold,Direction,Count,Expected count over horizon
+Actual test period,0.02,fall,23.0,
+Actual test period,0.02,rise,32.0,
+Normal IID,0.02,fall,,66.9566
+Normal IID,0.02,rise,,80.4313
+Power-law hybrid IID,0.02,fall,,44.1593
+Power-law hybrid IID,0.02,rise,,52.694900000000004
+GARCH-normal,0.02,fall,,61.4552
+GARCH-normal,0.02,rise,,75.8044
+GARCH-power-law hybrid,0.02,fall,,33.2438
+GARCH-power-law hybrid,0.02,rise,,44.0668
+Actual test period,0.03,fall,9.0,
+Actual test period,0.03,rise,16.0,
+Normal IID,0.03,fall,,25.9829
+Normal IID,0.03,rise,,32.7774
+Power-law hybrid IID,0.03,fall,,17.9141
+Power-law hybrid IID,0.03,rise,,21.9746
+GARCH-normal,0.03,fall,,23.0274
+GARCH-normal,0.03,rise,,29.8775
+GARCH-power-law hybrid,0.03,fall,,13.7628
+GARCH-power-law hybrid,0.03,rise,,18.0585
+Actual test period,0.05,fall,3.0,
+Actual test period,0.05,rise,1.0,
+Normal IID,0.05,fall,,1.9235
+Normal IID,0.05,rise,,2.6999999999999997
+Power-law hybrid IID,0.05,fall,,5.016800000000001
+Power-law hybrid IID,0.05,rise,,6.1677
+GARCH-normal,0.05,fall,,1.9127
+GARCH-normal,0.05,rise,,2.6947
+GARCH-power-law hybrid,0.05,fall,,3.8634
+GARCH-power-law hybrid,0.05,rise,,4.7435
